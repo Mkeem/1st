@@ -1,1 +1,3 @@
-idk
+<?php 
+echo "wasd";
+?>
